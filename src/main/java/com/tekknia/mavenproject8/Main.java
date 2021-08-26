@@ -131,7 +131,7 @@ public class Reto8_ParaEntregar {
      public static void numeral3(String ruta) {
     
          System.out.println("Responda:¿Qué utilidad tiene aplicar uno u otro de los dos métodos anteriores?");
-         System.out.println("R//= Considero mucho mejor el primer metodo, porque permite leer linea por linea,\n y cada byte ser "
+         System.out.println("R//= Consideramos mucho mejor el primer metodo, porque permite leer linea por linea,\n y cada byte ser "
                  + "tenido en cuenta mas facilmente evitando menos errores o perdida de informacion");
          
     }
